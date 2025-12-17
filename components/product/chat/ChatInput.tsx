@@ -20,24 +20,30 @@ const ChatInput = ({ onFocus, onSend }: ChatInputProps) => {
 
     return (
         <div className="mb-4">
-            <p className="text-gray-600 text-sm font-semibold mb-2 ml-1">Questions? Ask Scout!</p>
-            <div className="bg-white rounded-2xl p-2 flex items-center shadow-sm border border-gray-200">
+            <p className="text-gray-500 text-xs font-bold uppercase tracking-wider mb-2 ml-1">Ask Scout</p>
+            {/* Updated: rounded-xl to match other cards, focus-within ring for accessibility */}
+            <div className="bg-white rounded-xl p-1.5 flex items-center shadow-sm border border-gray-200 focus-within:ring-2 focus-within:ring-blue-100 focus-within:border-blue-400 transition-all">
                 <input
                     type="text"
-                    placeholder="Ask anything"
-                    className="flex-1 outline-none text-sm px-2 py-1"
+                    placeholder="Ask anything about this product..."
+                    className="flex-1 outline-none text-sm px-3 py-2 text-gray-700 placeholder-gray-400"
                     onFocus={onFocus}
                     value={input}
                     onChange={(e) => setInput(e.target.value)}
                     onKeyDown={handleKeyDown}
                 />
-                <div className="flex gap-2 text-gray-400 px-2">
-                    <span className="cursor-pointer">📷</span>
-                    <span className="cursor-pointer">🎤</span>
+                <div className="flex gap-1 text-gray-400 px-1">
+                    <button className="p-2 hover:bg-gray-100 rounded-lg transition text-gray-400 hover:text-gray-600">📷</button>
+                    <button className="p-2 hover:bg-gray-100 rounded-lg transition text-gray-400 hover:text-gray-600">🎤</button>
                 </div>
                 <button
                     onClick={handleSend}
-                    className="bg-gray-200 hover:bg-gray-300 w-8 h-8 rounded-full flex items-center justify-center text-gray-500 transition"
+                    disabled={!input.trim()}
+                    className={`w-9 h-9 rounded-lg flex items-center justify-center transition-all ${
+                        input.trim()
+                            ? "bg-black text-white hover:bg-gray-800 shadow-md"
+                            : "bg-gray-100 text-gray-400"
+                    }`}
                 >
                     ↑
                 </button>

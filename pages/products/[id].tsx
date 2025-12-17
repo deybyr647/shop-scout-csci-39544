@@ -7,9 +7,11 @@ import ProductReviewCard from "@/components/product/ProductReviewCard";
 import ProductStats from "@/components/product/ProductStats";
 import ProductHero from "@/components/product/ProductHero";
 import ChatOverlay from "@/components/product/chat/ChatOverlay";
-import productsData from "../api/products.json";
 
-// Define Message Interface
+// Import Data
+import productsData from "../api/products.json";
+import reviewsData from "../api/reviews.json";
+
 interface Message {
     id: number;
     text: string;
@@ -20,8 +22,11 @@ export default function ProductDetail() {
     const router = useRouter();
     const { id } = router.query;
 
-    // Find the product based on ID
+    // Find the product
     const product = productsData.find((p) => p.id === id);
+
+    // Filter reviews for this product
+    const productReviews = reviewsData.filter((r) => r.productId === id);
 
     // Chat State
     const [isChatOpen, setIsChatOpen] = useState(false);
@@ -29,12 +34,10 @@ export default function ProductDetail() {
         { id: 1, text: "Hi! I'm Scout. Ask me anything about this product.", sender: 'agent' }
     ]);
 
-    // Handle sending a message
     const handleSend = (text: string) => {
         const newMessage: Message = { id: Date.now(), text, sender: 'user' };
         setMessages(prev => [...prev, newMessage]);
 
-        // Simulate AI Response
         setTimeout(() => {
             const responseText = `Here is some info about "${text}" regarding the ${product?.name || 'product'}. (This is a simulated AI response).`;
             setMessages(prev => [...prev, { id: Date.now() + 1, text: responseText, sender: 'agent' }]);
@@ -50,10 +53,11 @@ export default function ProductDetail() {
             <NavBar/>
 
             <div className="p-4 pb-40">
-                {/* Pass dynamic product data */}
                 <ProductHero product={product} />
+
+                {/* Pass filtered reviews to Stats and Review Card */}
                 <ProductStats/>
-                <ProductReviewCard/>
+                <ProductReviewCard reviews={productReviews} />
             </div>
 
             {/* Chat Overlay */}
@@ -71,7 +75,7 @@ export default function ProductDetail() {
                     onFocus={() => setIsChatOpen(true)}
                     onSend={handleSend}
                 />
-                <ActionButtons productURL={product.productURL}/>
+                <ActionButtons productURL={product.productURL} />
             </div>
         </div>
     );

@@ -1,0 +1,586 @@
+[
+  {
+    "id": "r101",
+    "productId": "1",
+    "author": "Sarah Jenkins",
+    "rating": 5,
+    "date": "2023-11-15",
+    "content": "The noise cancellation on these Sony headphones is absolutely unmatched. I use them on the subway every day and hear nothing but my music."
+  },
+  {
+    "id": "r102",
+    "productId": "1",
+    "author": "Mike Chen",
+    "rating": 4,
+    "date": "2023-10-02",
+    "content": "Great sound quality and very comfortable. My only complaint is that the touch controls can be a bit finicky in cold weather."
+  },
+  {
+    "id": "r103",
+    "productId": "1",
+    "author": "Alex R.",
+    "rating": 5,
+    "date": "2023-12-05",
+    "content": "Best headphones I've ever owned. Battery life lasts me a whole week of commuting."
+  },
+  {
+    "id": "r104",
+    "productId": "2",
+    "author": "Jessica T.",
+    "rating": 5,
+    "date": "2023-09-20",
+    "content": "This MacBook Air is impossibly thin and fast. The M2 chip handles my video editing workflow with ease. Love the Midnight color!"
+  },
+  {
+    "id": "r105",
+    "productId": "2",
+    "author": "David B.",
+    "rating": 3,
+    "date": "2023-08-14",
+    "content": "It's a beautiful machine, but the fingerprint magnet surface on the Midnight model drives me crazy. Keep a cloth handy."
+  },
+  {
+    "id": "r106",
+    "productId": "3",
+    "author": "Coder123",
+    "rating": 5,
+    "date": "2024-01-10",
+    "content": "The quiet clicks are a game changer for office work. Scroll wheel is buttery smooth. Best mouse for productivity."
+  },
+  {
+    "id": "r107",
+    "productId": "3",
+    "author": "Emily W.",
+    "rating": 4,
+    "date": "2023-11-28",
+    "content": "Ergonomics are great, but the Logi Options+ software can be buggy on Mac sometimes."
+  },
+  {
+    "id": "r108",
+    "productId": "4",
+    "author": "TechGuru",
+    "rating": 5,
+    "date": "2024-02-01",
+    "content": "The S24 Ultra display is stunning. The AI features are actually useful, not just gimmicks. Titanium frame feels premium."
+  },
+  {
+    "id": "r109",
+    "productId": "4",
+    "author": "Sam L.",
+    "rating": 2,
+    "date": "2024-01-25",
+    "content": "Too expensive for what it is. My S22 Ultra felt basically the same. Not worth the upgrade."
+  },
+  {
+    "id": "r110",
+    "productId": "4",
+    "author": "Maria G.",
+    "rating": 5,
+    "date": "2024-02-10",
+    "content": "Camera is insane. The 5x zoom is crystal clear. Battery lasts all day easily."
+  },
+  {
+    "id": "r111",
+    "productId": "5",
+    "author": "Traveler88",
+    "rating": 5,
+    "date": "2023-07-15",
+    "content": "Charges my MacBook Pro and iPhone simultaneously while I'm at the airport. The little screen showing power output is nerdy and cool."
+  },
+  {
+    "id": "r112",
+    "productId": "5",
+    "author": "John D.",
+    "rating": 1,
+    "date": "2023-09-01",
+    "content": "Stopped holding a charge after 3 months. Disappointed given the price."
+  },
+  {
+    "id": "r113",
+    "productId": "6",
+    "author": "NintendoFan",
+    "rating": 5,
+    "date": "2023-12-25",
+    "content": "The OLED screen makes games pop so much more than the original Switch. Metroid Dread looks incredible on this."
+  },
+  {
+    "id": "r114",
+    "productId": "6",
+    "author": "MomOfTwo",
+    "rating": 4,
+    "date": "2023-11-10",
+    "content": "Great console, but I wish the joy-cons felt a bit sturdier. My kids love it though."
+  },
+  {
+    "id": "r115",
+    "productId": "7",
+    "author": "AppleUser",
+    "rating": 5,
+    "date": "2023-10-30",
+    "content": "Transparency mode is basically magic. I forget I have them in."
+  },
+  {
+    "id": "r116",
+    "productId": "7",
+    "author": "BassHead",
+    "rating": 4,
+    "date": "2023-11-05",
+    "content": "Sound is crisp, bass is punchy. Fit is better than the 1st gen for me."
+  },
+  {
+    "id": "r117",
+    "productId": "8",
+    "author": "CleanFreak",
+    "rating": 5,
+    "date": "2023-06-12",
+    "content": "The laser that shows the dust is horrifying and satisfying at the same time. My floors have never been cleaner."
+  },
+  {
+    "id": "r118",
+    "productId": "8",
+    "author": "DysonHater",
+    "rating": 2,
+    "date": "2023-08-20",
+    "content": "Battery runs out too fast on boost mode. For $600 I expected better runtime."
+  },
+  {
+    "id": "r119",
+    "productId": "8",
+    "author": "PetOwner",
+    "rating": 5,
+    "date": "2023-09-15",
+    "content": "Picks up dog hair like a champ. The anti-tangle screw tool is a lifesaver."
+  },
+  {
+    "id": "r120",
+    "productId": "9",
+    "author": "BookWorm",
+    "rating": 5,
+    "date": "2023-05-20",
+    "content": "Warm light feature is perfect for reading at night. Battery lasts forever."
+  },
+  {
+    "id": "r121",
+    "productId": "9",
+    "author": "Steve",
+    "rating": 3,
+    "date": "2023-06-01",
+    "content": "Good device but the UI is getting a bit cluttered with Amazon ads."
+  },
+  {
+    "id": "r122",
+    "productId": "10",
+    "author": "FrequentFlyer",
+    "rating": 5,
+    "date": "2023-11-12",
+    "content": "Classic Bose comfort. I wore these on a 12-hour flight and my ears didn't hurt at all."
+  },
+  {
+    "id": "r123",
+    "productId": "10",
+    "author": "AudioSnob",
+    "rating": 4,
+    "date": "2023-12-01",
+    "content": "Neutral sound profile, very comfortable. ANC is top tier, slightly behind Sony but much more comfortable."
+  },
+  {
+    "id": "r124",
+    "productId": "11",
+    "author": "TrailRunner",
+    "rating": 5,
+    "date": "2023-07-04",
+    "content": "The solar charging is legit. I went on a 4-day hike and didn't need to bring a charger. Maps are detailed too."
+  },
+  {
+    "id": "r125",
+    "productId": "11",
+    "author": "GymRat",
+    "rating": 5,
+    "date": "2023-08-11",
+    "content": "Built like a tank. The flashlight feature is surprisingly useful."
+  },
+  {
+    "id": "r126",
+    "productId": "12",
+    "author": "MechKeyFan",
+    "rating": 4,
+    "date": "2023-09-30",
+    "content": "Great entry-level mechanical keyboard. Bluetooth switching between Mac and PC works flawlessly."
+  },
+  {
+    "id": "r127",
+    "productId": "12",
+    "author": "Typist99",
+    "rating": 5,
+    "date": "2023-10-15",
+    "content": "Love the clicky sounds. Compact layout saves desk space."
+  },
+  {
+    "id": "r128",
+    "productId": "13",
+    "author": "DesignPro",
+    "rating": 4,
+    "date": "2023-11-22",
+    "content": "Gorgeous screen and design. The invisible trackpad takes some getting used to, but it looks futuristic."
+  },
+  {
+    "id": "r129",
+    "productId": "13",
+    "author": "Student",
+    "rating": 2,
+    "date": "2023-12-10",
+    "content": "Overheats quickly and battery life is mediocre. Looks cool but functionality is lacking."
+  },
+  {
+    "id": "r130",
+    "productId": "14",
+    "author": "ActionJack",
+    "rating": 5,
+    "date": "2024-01-05",
+    "content": "HyperSmooth 6.0 is incredible. I took this mountain biking and the footage looks like it was shot on a gimbal."
+  },
+  {
+    "id": "r131",
+    "productId": "14",
+    "author": "Vlogger1",
+    "rating": 3,
+    "date": "2024-01-20",
+    "content": "Good video, but it still overheats if you shoot 4K for too long."
+  },
+  {
+    "id": "r132",
+    "productId": "15",
+    "author": "GamerDad",
+    "rating": 5,
+    "date": "2023-12-28",
+    "content": "Spider-Man 2 looks unbelievable. The load times are instant. Love the DualSense controller feedback."
+  },
+  {
+    "id": "r133",
+    "productId": "15",
+    "author": "SonyPony",
+    "rating": 5,
+    "date": "2024-01-15",
+    "content": "Finally got one! It's huge, but it's quiet and powerful."
+  },
+  {
+    "id": "r134",
+    "productId": "16",
+    "author": "XboxFanboy",
+    "rating": 5,
+    "date": "2023-11-19",
+    "content": "Game Pass Ultimate + Series X is the best deal in gaming. Quick Resume is a feature I can't live without now."
+  },
+  {
+    "id": "r135",
+    "productId": "17",
+    "author": "HomeAuto",
+    "rating": 5,
+    "date": "2023-10-10",
+    "content": "Expensive, but reliable. The colors are vibrant and the app works well. Syncs with Spotify perfectly."
+  },
+  {
+    "id": "r136",
+    "productId": "17",
+    "author": "BudgetBuyer",
+    "rating": 3,
+    "date": "2023-11-01",
+    "content": "Great lights, but way too pricey compared to competitors like Govee."
+  },
+  {
+    "id": "r137",
+    "productId": "18",
+    "author": "RunnerGirl",
+    "rating": 4,
+    "date": "2023-12-05",
+    "content": "Accurate HR tracking and GPS. Google integration is nice, but I miss some of the old Fitbit social features."
+  },
+  {
+    "id": "r138",
+    "productId": "19",
+    "author": "CoffeeLover",
+    "rating": 5,
+    "date": "2023-09-08",
+    "content": "Keeps my coffee hot for literally 6 hours. Indestructible."
+  },
+  {
+    "id": "r139",
+    "productId": "19",
+    "author": "Joe",
+    "rating": 4,
+    "date": "2023-10-12",
+    "content": "Solid cup, but the MagSlider lid isn't 100% leakproof if you turn it upside down."
+  },
+  {
+    "id": "r140",
+    "productId": "20",
+    "author": "Cinephile",
+    "rating": 5,
+    "date": "2023-11-25",
+    "content": "The Dolby Atmos effect is real. Sounds like I have speakers all over the room. Expensive but worth it."
+  },
+  {
+    "id": "r141",
+    "productId": "21",
+    "author": "StreetShooter",
+    "rating": 5,
+    "date": "2023-08-30",
+    "content": "The film simulations are beautiful. JPEG straight out of camera looks edited. Hard to find in stock though!"
+  },
+  {
+    "id": "r142",
+    "productId": "22",
+    "author": "ProGamer",
+    "rating": 5,
+    "date": "2023-12-14",
+    "content": "Lightweight, responsive, perfectly shaped. Improved my aim in Valorant immediately."
+  },
+  {
+    "id": "r143",
+    "productId": "23",
+    "author": "ArtistAlice",
+    "rating": 5,
+    "date": "2023-07-22",
+    "content": "Perfect for Procreate. M1 chip is overkill for a tablet but I love it. Screen is beautiful."
+  },
+  {
+    "id": "r144",
+    "productId": "24",
+    "author": "EcoWarrior",
+    "rating": 4,
+    "date": "2023-09-05",
+    "content": "Easy to install and looks sleek. It has definitely saved me money on my heating bill this winter."
+  },
+  {
+    "id": "r145",
+    "productId": "25",
+    "author": "WFH_Expert",
+    "rating": 5,
+    "date": "2023-06-18",
+    "content": "Your back will thank you. I sit for 10 hours a day and have zero pain now. It's an investment."
+  },
+  {
+    "id": "r146",
+    "productId": "25",
+    "author": "Dave",
+    "rating": 3,
+    "date": "2023-07-01",
+    "content": "Mesh is comfortable but the hard plastic frame can dig into your legs if you don't sit perfectly straight."
+  },
+  {
+    "id": "r147",
+    "productId": "26",
+    "author": "HikerTom",
+    "rating": 5,
+    "date": "2023-08-22",
+    "content": "Classic bottle. Dents give it character. Keeps water ice cold all day."
+  },
+  {
+    "id": "r148",
+    "productId": "27",
+    "author": "VideoEditor",
+    "rating": 5,
+    "date": "2023-11-03",
+    "content": "Fast read/write speeds. Rugged enough to toss in a bag. Perfect for editing off the drive."
+  },
+  {
+    "id": "r149",
+    "productId": "28",
+    "author": "SleepHacker",
+    "rating": 4,
+    "date": "2023-10-19",
+    "content": "Sleep tracking is phenomenal. Just wish it didn't require a monthly subscription."
+  },
+  {
+    "id": "r150",
+    "productId": "29",
+    "author": "MovieBuff",
+    "rating": 5,
+    "date": "2023-12-20",
+    "content": "Perfect blacks, infinite contrast. Watching HDR content on this OLED TV ruins you for regular LED TVs."
+  },
+  {
+    "id": "r151",
+    "productId": "30",
+    "author": "PhotoPro",
+    "rating": 5,
+    "date": "2023-09-12",
+    "content": "Autofocus is sticky and fast. Great dynamic range. Best hybrid camera Canon has made."
+  },
+  {
+    "id": "r152",
+    "productId": "31",
+    "author": "AndroidFan",
+    "rating": 4,
+    "date": "2023-11-08",
+    "content": "The glyph interface is cool, actually useful for timers. Nothing OS is clean and bloat-free."
+  },
+  {
+    "id": "r153",
+    "productId": "32",
+    "author": "SlowSipper",
+    "rating": 5,
+    "date": "2023-12-02",
+    "content": "I thought this was silly until I got one. Always having hot tea at the perfect temp is a luxury I won't give up."
+  },
+  {
+    "id": "r154",
+    "productId": "33",
+    "author": "GearHead",
+    "rating": 5,
+    "date": "2023-08-05",
+    "content": "The modular dividers are genius. Fits my camera gear and drone perfectly while looking stylish."
+  },
+  {
+    "id": "r155",
+    "productId": "34",
+    "author": "StreamerX",
+    "rating": 5,
+    "date": "2023-10-25",
+    "content": "Essential for streaming. Also great for productivity macros in Photoshop and Premiere."
+  },
+  {
+    "id": "r156",
+    "productId": "35",
+    "author": "RGB_Life",
+    "rating": 4,
+    "date": "2023-11-15",
+    "content": "Looks amazing on the wall. Setup was a bit tricky with the wifi pairing, but works great now."
+  },
+  {
+    "id": "r157",
+    "productId": "36",
+    "author": "ChefDad",
+    "rating": 5,
+    "date": "2023-09-28",
+    "content": "Makes dinner so fast. The yogurt function is surprisingly good too."
+  },
+  {
+    "id": "r158",
+    "productId": "37",
+    "author": "SocialMediaQueen",
+    "rating": 4,
+    "date": "2024-01-08",
+    "content": "Audio quality is surprisingly good for calls. Video quality is decent for stories, super convenient."
+  },
+  {
+    "id": "r159",
+    "productId": "38",
+    "author": "DronePilot",
+    "rating": 5,
+    "date": "2023-07-30",
+    "content": "Under 249g so no registration needed! The vertical shooting mode is perfect for TikTok."
+  },
+  {
+    "id": "r160",
+    "productId": "39",
+    "author": "NoteTaker",
+    "rating": 5,
+    "date": "2023-10-05",
+    "content": "Feels exactly like writing on paper. No distractions, just writing. Battery lasts weeks."
+  },
+  {
+    "id": "r161",
+    "productId": "39",
+    "author": "Techie",
+    "rating": 3,
+    "date": "2023-11-12",
+    "content": "Great hardware, but the software subscription for cloud sync is annoying."
+  },
+  {
+    "id": "r162",
+    "productId": "40",
+    "author": "FitnessFan",
+    "rating": 4,
+    "date": "2023-09-18",
+    "content": "Syncs effortlessly with Apple Health. Body composition stats seem consistent."
+  },
+  {
+    "id": "r163",
+    "productId": "41",
+    "author": "BeachBum",
+    "rating": 5,
+    "date": "2023-07-10",
+    "content": "Huge sound for such a small speaker. Totally waterproof, survived a dunk in the pool."
+  },
+  {
+    "id": "r164",
+    "productId": "42",
+    "author": "VR_Enthusiast",
+    "rating": 5,
+    "date": "2023-11-20",
+    "content": "The passthrough is a massive upgrade over the Quest 2. Mixed reality games are finally playable."
+  },
+  {
+    "id": "r165",
+    "productId": "43",
+    "author": "YogaLover",
+    "rating": 5,
+    "date": "2023-08-25",
+    "content": "Buttery soft. I literally live in these. Worth every penny."
+  },
+  {
+    "id": "r166",
+    "productId": "43",
+    "author": "Shopper1",
+    "rating": 2,
+    "date": "2023-09-10",
+    "content": "They started pilling after a few months of use. Expected better durability."
+  },
+  {
+    "id": "r167",
+    "productId": "44",
+    "author": "HydrationStation",
+    "rating": 5,
+    "date": "2023-10-01",
+    "content": "Keeps ice frozen for days. Fits in my car cup holder which is a huge plus for a 40oz mug."
+  },
+  {
+    "id": "r168",
+    "productId": "45",
+    "author": "IceCreamLover",
+    "rating": 5,
+    "date": "2023-08-15",
+    "content": "Turns protein shakes into actual ice cream. It's loud, but the result is magic."
+  },
+  {
+    "id": "r169",
+    "productId": "46",
+    "author": "VinylNewbie",
+    "rating": 5,
+    "date": "2023-12-05",
+    "content": "Setup took 5 minutes. Sounds great connected to my powered speakers. Perfect first turntable."
+  },
+  {
+    "id": "r170",
+    "productId": "47",
+    "author": "PixelPeeper",
+    "rating": 5,
+    "date": "2023-11-10",
+    "content": "The AI photo editing features are mind-blowing. Best Magic Eraser yet. Clean software experience."
+  },
+  {
+    "id": "r171",
+    "productId": "48",
+    "author": "OrganizedDesk",
+    "rating": 5,
+    "date": "2023-09-22",
+    "content": "Charges my iPhone, Watch, and AirPods all at once. Looks like a modern art piece on my nightstand."
+  },
+  {
+    "id": "r172",
+    "productId": "49",
+    "author": "CrossFitter",
+    "rating": 4,
+    "date": "2023-10-18",
+    "content": "Strain and recovery metrics are super insightful. The band is comfortable 24/7."
+  },
+  {
+    "id": "r173",
+    "productId": "50",
+    "author": "RecoveryRoad",
+    "rating": 5,
+    "date": "2023-11-30",
+    "content": "Small enough to throw in my gym bag but powerful enough to work out deep knots."
+  }
+]

@@ -6,7 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="9bd2326d-03fd-4c0e-86f7-1ed0ca2a365f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/product/ProductStats.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/product/ProductStats.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/product/ActionButtons.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/product/ActionButtons.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/product/ProductHero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/product/ProductHero.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/product/ProductReviewCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/product/ProductReviewCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/product/chat/ChatInput.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/product/chat/ChatInput.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/results/ProductCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/results/ProductCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/products/[id].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/[id].tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +97,7 @@
       <updated>1738542719011</updated>
       <workItem from="1738542720047" duration="30000" />
       <workItem from="1765939065348" duration="9499000" />
-      <workItem from="1765993645338" duration="5195000" />
+      <workItem from="1765993645338" duration="6613000" />
     </task>
     <servers />
   </component>
