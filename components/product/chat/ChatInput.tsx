@@ -1,8 +1,22 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 
-const ChatInput = () => {
-    const [isChatOpen, setIsChatOpen] = useState(false);
-    const [chatInput, setChatInput] = useState("");
+interface ChatInputProps {
+    onFocus?: () => void;
+    onSend: (text: string) => void;
+}
+
+const ChatInput = ({ onFocus, onSend }: ChatInputProps) => {
+    const [input, setInput] = useState("");
+
+    const handleSend = () => {
+        if (!input.trim()) return;
+        onSend(input);
+        setInput("");
+    };
+
+    const handleKeyDown = (e: React.KeyboardEvent) => {
+        if (e.key === 'Enter') handleSend();
+    };
 
     return (
         <div className="mb-4">
@@ -12,20 +26,23 @@ const ChatInput = () => {
                     type="text"
                     placeholder="Ask anything"
                     className="flex-1 outline-none text-sm px-2 py-1"
-                    onFocus={() => setIsChatOpen(true)}
-                    value={chatInput}
-                    onChange={(e) => setChatInput(e.target.value)}
+                    onFocus={onFocus}
+                    value={input}
+                    onChange={(e) => setInput(e.target.value)}
+                    onKeyDown={handleKeyDown}
                 />
                 <div className="flex gap-2 text-gray-400 px-2">
-                    <span>📷</span>
-                    <span>🎤</span>
+                    <span className="cursor-pointer">📷</span>
+                    <span className="cursor-pointer">🎤</span>
                 </div>
-                <button className="bg-gray-200 w-8 h-8 rounded-full flex items-center justify-center text-gray-500">
+                <button
+                    onClick={handleSend}
+                    className="bg-gray-200 hover:bg-gray-300 w-8 h-8 rounded-full flex items-center justify-center text-gray-500 transition"
+                >
                     ↑
                 </button>
             </div>
         </div>
     )
 }
-
 export default ChatInput;

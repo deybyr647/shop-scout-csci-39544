@@ -1,13 +1,12 @@
 import React from "react";
 
-const UserChatBubble = () => {
+const UserChatBubble = ({ text }: { text: string }) => {
     return (
-        <div className="flex justify-end mb-4">
-            <div className="bg-gray-100 rounded-2xl rounded-tr-none px-4 py-2 text-sm max-w-[80%]">
-                What are the Bluetooth specs for the XM4's?
+        <div className="flex justify-end mb-4 animate-fade-in">
+            <div className="bg-blue-600 text-white rounded-2xl rounded-tr-none px-4 py-2 text-sm max-w-[80%]">
+                {text}
             </div>
         </div>
     )
 }
-
 export default UserChatBubble;
