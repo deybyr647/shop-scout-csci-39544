@@ -1,9 +1,19 @@
 import type { NextConfig } from "next";
 
+// 1. Initialize next-pwa
+// We use require here because next-pwa is a CommonJS package
+const withPWA = require('next-pwa')({
+    dest: 'public',
+    register: true,
+    skipWaiting: true,
+    // CRITICAL: PWA must be disabled in dev for Turbo to work
+    disable: process.env.NODE_ENV === 'development',
+});
+
 const nextConfig: NextConfig = {
-  /* config options here */
-  reactCompiler: true,
-  reactStrictMode: true,
+    reactStrictMode: true,
+    reactCompiler: true,
 };
 
-export default nextConfig;
+// 3. Export the wrapped config
+export default withPWA(nextConfig);

@@ -5,6 +5,7 @@ import RelatedProducts from "@/components/results/RelatedProducts";
 import Search from "@/components/results/Search";
 import NavBar from "@/components/NavBar";
 import productsData from "./api/products.json";
+import SEOHead from "@/components/SEOHead";
 
 export default function Results() {
     const router = useRouter();
@@ -20,6 +21,7 @@ export default function Results() {
 
     return (
         <div className="min-h-screen bg-white font-sans max-w-md mx-auto border-x border-gray-200 pb-10">
+            <SEOHead title={`Results for "${q}"... - ShopScout`} />
             <div className="p-4 sticky top-0 bg-white z-10 border-b border-gray-100">
                 <NavBar/>
                 <Search />

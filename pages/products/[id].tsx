@@ -14,6 +14,7 @@ import { useChatHistory, Message } from '@/components/hooks/useChatHistory';
 // Import Data
 import productsData from "../api/products.json";
 import reviewsData from "../api/reviews.json";
+import SEOHead from "@/components/SEOHead";
 
 export default function ProductDetail() {
     const router = useRouter();
@@ -76,6 +77,7 @@ export default function ProductDetail() {
 
     return (
         <div className="min-h-screen bg-white font-sans max-w-md mx-auto border-x border-gray-200 relative">
+            <SEOHead title={`${product.name} - ShopScout`} />
             <NavBar/>
 
             <div className="p-4 pb-40">
