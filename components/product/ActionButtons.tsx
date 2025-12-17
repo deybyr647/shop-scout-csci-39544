@@ -2,9 +2,20 @@ import React from "react";
 
 interface ActionButtonsProps {
     productURL: string;
+    // New prop to accept the clear function from the parent
+    onClearChat?: () => void;
 }
 
-const ActionButtons = ({ productURL }: ActionButtonsProps) => {
+const ActionButtons = ({ productURL, onClearChat }: ActionButtonsProps) => {
+
+    const handleClick = () => {
+        if (onClearChat) {
+            onClearChat();
+            // Optional: Alert just to let you know it happened since the UI won't change drastically
+            alert("Chat history cleared!");
+        }
+    };
+
     return (
         <div className="flex gap-3">
             <a
@@ -15,7 +26,10 @@ const ActionButtons = ({ productURL }: ActionButtonsProps) => {
             >
                 Buy now
             </a>
-            <button className="flex-1 bg-white hover:bg-gray-50 text-gray-900 font-semibold py-3.5 rounded-xl shadow-sm hover:shadow-md transition-all active:scale-[0.98] border border-gray-200">
+            <button
+                onClick={handleClick}
+                className="flex-1 bg-white hover:bg-gray-50 text-gray-900 font-semibold py-3.5 rounded-xl shadow-sm hover:shadow-md transition-all active:scale-[0.98] border border-gray-200"
+            >
                 Add to list
             </button>
         </div>

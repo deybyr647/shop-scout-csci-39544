@@ -109,7 +109,10 @@ export default function ProductDetail() {
                     onSend={handleSend}
                 />
                 {isLoading && <p className="text-xs text-center text-gray-400 mb-2">Scout is thinking...</p>}
-                <ActionButtons productURL={product.productURL} />
+                <ActionButtons
+                    productURL={product.productURL}
+                    onClearChat={clearHistory}
+                />
             </div>
         </div>
     );

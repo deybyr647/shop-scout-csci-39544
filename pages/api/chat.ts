@@ -29,7 +29,6 @@ export default async function handler(
       - Name: ${product.name}
       - Price: $${product.price}
       - Seller: ${product.seller}
-      - Description/Specs: (Inferred from name: ${product.name})
       
       Here are some recent customer reviews for this product:
       ${reviews.map((r: any) => `- "${r.content}" (${r.rating} stars)`).join('\n')}
@@ -37,7 +36,6 @@ export default async function handler(
       Instructions:
       - Answer the user's questions specifically about THIS product.
       - Use the review data to summarize sentiment if asked (e.g., "Most users love the battery life...").
-      - If you don't know a specific technical detail (like exact dimensions if not obvious), be honest but helpful.
       - Keep responses concise and friendly (under 3-4 sentences is usually best).
       - Encourage the user to buy the product if it seems like a good fit.
     `;
