@@ -6,7 +6,8 @@
     "price": 199.99,
     "originalPrice": 349.99,
     "saving": 150.00,
-    "imageColor": "bg-gray-200"
+    "imageURL": "https://c1.neweggimages.com/productimage/nb640/A51GD24011600G5FR8F.jpg",
+    "productURL": "https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4-b"
   },
   {
     "id": "2",
@@ -15,7 +16,8 @@
     "price": 999.00,
     "originalPrice": 1199.00,
     "saving": 200.00,
-    "imageColor": "bg-slate-300"
+    "imageURL": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg",
+    "productURL": "https://www.bestbuy.com/site/mac/macbook-air-m2/pcmcat1654549851065.c"
   },
   {
     "id": "3",
@@ -24,28 +26,32 @@
     "price": 92.50,
     "originalPrice": 99.99,
     "saving": 7.49,
-    "imageColor": "bg-gray-700"
+    "imageURL": "https://resource.logitech.com/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-graphite.png",
+    "productURL": "https://www.logitech.com/en-us/shop/p/mx-master-3s"
   },
   {
     "id": "4",
     "name": "Samsung Galaxy S24 Ultra",
     "seller": "Samsung Official",
     "price": 1199.99,
-    "imageColor": "bg-yellow-100"
+    "imageURL": "https://m.media-amazon.com/images/I/71-EnPs+uQL.jpg",
+    "productURL": "https://www.samsung.com/us/smartphones/galaxy-s24-ultra/"
   },
   {
     "id": "5",
     "name": "Anker 737 Power Bank",
     "seller": "Anker Store",
     "price": 149.99,
-    "imageColor": "bg-black"
+    "imageURL": "https://c1.neweggimages.com/productimage/nb640/ACCUS2208030LYBJ92A.jpg",
+    "productURL": "https://www.anker.com/products/a1289"
   },
   {
     "id": "6",
     "name": "Nintendo Switch OLED",
     "seller": "GameStop",
     "price": 349.99,
-    "imageColor": "bg-red-500"
+    "imageURL": "https://media.gamestop.com/i/gamestop/11149258/Nintendo-Switch-OLED-Console",
+    "productURL": "https://www.gamestop.com/consoles-hardware/nintendo-switch/consoles/products/nintendo-switch-oled-console/11149258.html"
   },
   {
     "id": "7",
@@ -54,7 +60,8 @@
     "price": 189.99,
     "originalPrice": 249.00,
     "saving": 59.01,
-    "imageColor": "bg-white"
+    "imageURL": "https://img.mta.ua/image/cache/data/foto/z827/827126/photos/Apple-AirPods-Pro-2-62-White-04-600x600.jpg",
+    "productURL": "https://www.target.com/p/apple-airpods-pro-2nd-generation/-/A-87491790"
   },
   {
     "id": "8",
@@ -63,14 +70,16 @@
     "price": 649.99,
     "originalPrice": 749.99,
     "saving": 100.00,
-    "imageColor": "bg-purple-600"
+    "imageURL": "https://m.media-amazon.com/images/I/61zH8pFvrFL.jpg",
+    "productURL": "https://www.dyson.com/vacuum-cleaners/cordless/v15/detect-yellow"
   },
   {
     "id": "9",
     "name": "Kindle Paperwhite",
     "seller": "Amazon",
     "price": 139.99,
-    "imageColor": "bg-stone-800"
+    "imageURL": "https://www.popzara.com/wp-content/uploads/2024/11/kindle_paperwhite2024_feature.jpg",
+    "productURL": "https://www.amazon.com/dp/B09TMN58KL"
   },
   {
     "id": "10",
@@ -79,7 +88,8 @@
     "price": 279.00,
     "originalPrice": 329.00,
     "saving": 50.00,
-    "imageColor": "bg-neutral-400"
+    "imageURL": "https://c1.neweggimages.com/productimage/nb640/26-627-127-S01.jpg",
+    "productURL": "https://www.bhphotovideo.com/c/product/1661262-REG/bose_866724_0200_quietcomfort_45_noise_canceling_wireless.html"
   },
   {
     "id": "11",
@@ -88,14 +98,16 @@
     "price": 799.99,
     "originalPrice": 899.99,
     "saving": 100.00,
-    "imageColor": "bg-slate-800"
+    "imageURL": "https://m.media-amazon.com/images/I/71yg3FJG9zL._AC_UF894,1000_QL80_.jpg",
+    "productURL": "https://www.rei.com/product/206596/garmin-fenix-7x-sapphire-solar"
   },
   {
     "id": "12",
     "name": "Keychron K2 Mechanical Keyboard",
     "seller": "Keychron",
     "price": 79.00,
-    "imageColor": "bg-gray-500"
+    "imageURL": "https://m.media-amazon.com/images/I/61efvyxdAZL._AC_UF894,1000_QL80_.jpg",
+    "productURL": "https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard"
   },
   {
     "id": "13",
@@ -104,7 +116,8 @@
     "price": 1249.00,
     "originalPrice": 1449.00,
     "saving": 200.00,
-    "imageColor": "bg-zinc-200"
+    "imageURL": "https://m.media-amazon.com/images/I/710EGJBdIML._AC_UF894,1000_QL80_.jpg",
+    "productURL": "https://www.dell.com/en-us/shop/dell-laptops/xps-13-plus-laptop/spd/xps-13-9320-laptop"
   },
   {
     "id": "14",
@@ -113,14 +126,16 @@
     "price": 349.99,
     "originalPrice": 399.99,
     "saving": 50.00,
-    "imageColor": "bg-teal-900"
+    "imageURL": "https://m.media-amazon.com/images/I/71p5V8+OnfL._AC_UF894,1000_QL80_.jpg",
+    "productURL": "https://gopro.com/en/us/shop/cameras/hero12-black/CHDHX-121-master.html"
   },
   {
     "id": "15",
     "name": "PlayStation 5 Console",
     "seller": "Walmart",
     "price": 499.00,
-    "imageColor": "bg-white"
+    "imageURL": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$facebook$",
+    "productURL": "https://www.walmart.com/ip/Sony-PlayStation-5-Console-Disc-Edition-Slim/5113283259"
   },
   {
     "id": "16",
@@ -129,7 +144,8 @@
     "price": 449.99,
     "originalPrice": 499.99,
     "saving": 50.00,
-    "imageColor": "bg-green-900"
+    "imageURL": "https://i5.walmartimages.com/asr/831bfc30-835c-4286-b0e8-6ed0e91725ab.180ccd362305d6a20727b024ed070e93.jpeg",
+    "productURL": "https://www.xbox.com/en-US/consoles/xbox-series-x"
   },
   {
     "id": "17",
@@ -138,42 +154,48 @@
     "price": 159.99,
     "originalPrice": 199.99,
     "saving": 40.00,
-    "imageColor": "bg-orange-100"
+    "imageURL": "https://www.assets.signify.com/is/image/Signify/046677574475-929002226616-Philips-Hue_WCA-9_5W-A19-E26-2set-sw-US-B-RTP",
+    "productURL": "https://www.philips-hue.com/en-us/products/smart-light-starter-kits"
   },
   {
     "id": "18",
     "name": "Fitbit Charge 6",
     "seller": "Fitbit",
     "price": 159.95,
-    "imageColor": "bg-rose-100"
+    "imageURL": "https://m.media-amazon.com/images/I/619to+LfvJL.jpg",
+    "productURL": "https://www.fitbit.com/global/us/products/trackers/charge6"
   },
   {
     "id": "19",
     "name": "Yeti Rambler 20oz",
     "seller": "Dick's Sporting Goods",
     "price": 35.00,
-    "imageColor": "bg-blue-600"
+    "imageURL": "https://media.tractorsupply.com/is/image/TractorSupplyCompany/2326007?wid=554&hei=554&qlt=90&fmt=jpeg&resMode=sharp2&op_usm=0.9,1.0,8,0",
+    "productURL": "https://www.yeti.com/drinkware/tumblers/20oz-tumbler-magslider.html"
   },
   {
     "id": "20",
     "name": "Sonos Arc Soundbar",
     "seller": "Sonos",
     "price": 899.00,
-    "imageColor": "bg-black"
+    "imageURL": "https://cdn.mos.cms.futurecdn.net/oAVuRwwUebTdJtNLK5xUcW.jpg",
+    "productURL": "https://www.sonos.com/en-us/shop/arc"
   },
   {
     "id": "21",
     "name": "Fujifilm X100V",
     "seller": "Adorama",
     "price": 1399.00,
-    "imageColor": "bg-zinc-400"
+    "imageURL": "https://i5.walmartimages.com/asr/16afcc90-a76a-426f-8ec3-2ad2167c91fc.5264a0216ddb123a8d5308b13c09a830.jpeg",
+    "productURL": "https://www.adorama.com/ifjx100vs.html"
   },
   {
     "id": "22",
     "name": "Razer DeathAdder V3",
     "seller": "Razer",
     "price": 69.99,
-    "imageColor": "bg-green-400"
+    "imageURL": "https://m.media-amazon.com/images/I/71fRKz9pUnL.jpg",
+    "productURL": "https://www.razer.com/gaming-mice/razer-deathadder-v3"
   },
   {
     "id": "23",
@@ -182,7 +204,8 @@
     "price": 559.00,
     "originalPrice": 599.00,
     "saving": 40.00,
-    "imageColor": "bg-sky-200"
+    "imageURL": "https://www.adorama.com/images/Large/ACMM9C3LLA.jpg",
+    "productURL": "https://www.apple.com/ipad-air/"
   },
   {
     "id": "24",
@@ -191,7 +214,8 @@
     "price": 199.00,
     "originalPrice": 249.00,
     "saving": 50.00,
-    "imageColor": "bg-gray-400"
+    "imageURL": "https://images.thdstatic.com/productImages/e46c5004-0479-4165-9dc7-83aea52f7a4e/svn/stainless-steel-google-programmable-thermostats-t3007es-64_1000.jpg",
+    "productURL": "https://store.google.com/product/nest_learning_thermostat_3rd_gen"
   },
   {
     "id": "25",
@@ -200,14 +224,16 @@
     "price": 1250.00,
     "originalPrice": 1600.00,
     "saving": 350.00,
-    "imageColor": "bg-stone-900"
+    "imageURL": "https://www.beverlyhillschairs.com/image/cache/catalog/LerryGalve/HermanMillerAeronListingImages/2-500x500.png",
+    "productURL": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/2195348.html"
   },
   {
     "id": "26",
     "name": "Hydro Flask 32oz",
     "seller": "Hydro Flask",
     "price": 44.95,
-    "imageColor": "bg-indigo-500"
+    "imageURL": "https://www.hydroflask.com/media/catalog/product/w/3/w32bts-cascade-straighton.jpg",
+    "productURL": "https://www.hydroflask.com/32-oz-wide-mouth"
   },
   {
     "id": "27",
@@ -216,14 +242,16 @@
     "price": 79.99,
     "originalPrice": 99.99,
     "saving": 20.00,
-    "imageColor": "bg-blue-700"
+    "imageURL": "https://m.media-amazon.com/images/I/91YfRIy7kYL.jpg",
+    "productURL": "https://www.samsung.com/us/computing/memory-storage/portable-solid-state-drives/portable-ssd-t7-1tb-indigo-blue-mu-pc1t0h-am/"
   },
   {
     "id": "28",
     "name": "Oura Ring Gen3",
     "seller": "Oura",
     "price": 299.00,
-    "imageColor": "bg-yellow-600"
+    "imageURL": "https://m.media-amazon.com/images/I/61FS1+mDc+L.jpg",
+    "productURL": "https://ouraring.com/product/heritage-silver"
   },
   {
     "id": "29",
@@ -232,7 +260,8 @@
     "price": 1299.99,
     "originalPrice": 1499.99,
     "saving": 200.00,
-    "imageColor": "bg-black"
+    "imageURL": "https://i5.walmartimages.com/seo/LG-55-Class-4K-UHD-OLED-Web-OS-Smart-TV-with-Dolby-Vision-C3-Series-OLED55C3PUA_04d9b9cc-7fda-4267-aefe-b90bdd8b0352.67d66eaa60792e6e06b1f0f8d35ad50b.jpeg",
+    "productURL": "https://www.lg.com/us/tvs/lg-oled55c3pua-oled-4k-tv"
   },
   {
     "id": "30",
@@ -241,14 +270,16 @@
     "price": 2299.00,
     "originalPrice": 2499.00,
     "saving": 200.00,
-    "imageColor": "bg-neutral-900"
+    "imageURL": "https://m.media-amazon.com/images/I/61S4Op1us3L._AC_UF894,1000_QL80_.jpg",
+    "productURL": "https://www.usa.canon.com/shop/p/eos-r6-mark-ii"
   },
   {
     "id": "31",
     "name": "Nothing Phone (2)",
     "seller": "Nothing",
     "price": 599.00,
-    "imageColor": "bg-gray-300"
+    "imageURL": "https://www.zdnet.com/a/img/resize/97c89a87e2d9912ffc9245d5b3e7fcded11a506f/2023/07/10/f20f4179-ccbc-4648-92a1-beff66c08054/dsc04960.jpg?auto=webp&fit=crop&height=1200&width=1200",
+    "productURL": "https://nothing.tech/products/phone-2"
   },
   {
     "id": "32",
@@ -257,14 +288,16 @@
     "price": 129.95,
     "originalPrice": 149.95,
     "saving": 20.00,
-    "imageColor": "bg-red-400"
+    "imageURL": "https://m.media-amazon.com/images/I/61VXH79P8sL._AC_UF894,1000_QL80_.jpg",
+    "productURL": "https://ember.com/products/ember-mug-2"
   },
   {
     "id": "33",
     "name": "Peak Design Everyday Backpack",
     "seller": "Peak Design",
     "price": 279.95,
-    "imageColor": "bg-slate-600"
+    "imageURL": "https://cdn.shopify.com/s/files/1/2986/1172/files/everyday-backpack-black-20-1.jpg?v=1762275581",
+    "productURL": "https://www.peakdesign.com/products/everyday-backpack"
   },
   {
     "id": "34",
@@ -273,14 +306,16 @@
     "price": 139.99,
     "originalPrice": 149.99,
     "saving": 10.00,
-    "imageColor": "bg-blue-900"
+    "imageURL": "https://m.media-amazon.com/images/I/61gtdFnK+UL._AC_UF894,1000_QL80_.jpg",
+    "productURL": "https://www.elgato.com/us/en/p/stream-deck-mk2-black"
   },
   {
     "id": "35",
     "name": "Nanoleaf Shapes Hexagons",
     "seller": "Nanoleaf",
     "price": 199.99,
-    "imageColor": "bg-pink-300"
+    "imageURL": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HPE42?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=cDVuTkZHaFVKR0gyUXpVT0FUVTF1d2tuVHYzMERCZURia3c5SzJFOTlPaVcwcmdNUXo2dzNKQzlWbjdVTW1BdmU0dmZSRHBDcU9wYzNpeVdqeS9UZWc",
+    "productURL": "https://nanoleaf.me/en-US/products/nanoleaf-shapes/"
   },
   {
     "id": "36",
@@ -289,35 +324,40 @@
     "price": 99.95,
     "originalPrice": 129.95,
     "saving": 30.00,
-    "imageColor": "bg-gray-500"
+    "imageURL": "https://m.media-amazon.com/images/I/71CzD+eRG3L.jpg",
+    "productURL": "https://www.instanthome.com/product/instant-pot/duo-plus/6-quart-multi-use-pressure-cooker"
   },
   {
     "id": "37",
     "name": "Ray-Ban Meta Smart Glasses",
     "seller": "Sunglass Hut",
     "price": 299.00,
-    "imageColor": "bg-black"
+    "imageURL": "https://i.ebayimg.com/00/s/MTUwMFgxNTAw/z/I08AAOSwDgdlSU8c/$_57.JPG?set_id=880000500F",
+    "productURL": "https://www.ray-ban.com/usa/ray-ban-meta-smart-glasses"
   },
   {
     "id": "38",
     "name": "DJI Mini 3 Pro Drone",
     "seller": "DJI",
     "price": 759.00,
-    "imageColor": "bg-gray-200"
+    "imageURL": "https://m.media-amazon.com/images/I/61Y1P6uIRFL.jpg",
+    "productURL": "https://www.dji.com/mini-3-pro"
   },
   {
     "id": "39",
     "name": "Remarkable 2 Tablet",
     "seller": "Remarkable",
     "price": 299.00,
-    "imageColor": "bg-stone-100"
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/631758e1148c0548900ead1a/1662475566389-XSGEYMY8PZC0PXAU7KN1/image-asset.jpeg",
+    "productURL": "https://remarkable.com/store/remarkable-2"
   },
   {
     "id": "40",
     "name": "Withings Body+ Scale",
     "seller": "Withings",
     "price": 99.95,
-    "imageColor": "bg-white"
+    "imageURL": "https://m.media-amazon.com/images/I/61jzbR6GHaL._AC_UF1000,1000_QL80_.jpg",
+    "productURL": "https://www.withings.com/us/en/body-plus"
   },
   {
     "id": "41",
@@ -326,28 +366,32 @@
     "price": 99.95,
     "originalPrice": 129.95,
     "saving": 30.00,
-    "imageColor": "bg-red-600"
+    "imageURL": "https://m.media-amazon.com/images/I/614f5R8ReXL._AC_UF894,1000_QL80_.jpg",
+    "productURL": "https://www.jbl.com/bluetooth-speakers/JBLFLIP6BLKAM.html"
   },
   {
     "id": "42",
     "name": "Meta Quest 3",
     "seller": "Meta Store",
     "price": 499.99,
-    "imageColor": "bg-white"
+    "imageURL": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2023/09/quest-3-18.jpg",
+    "productURL": "https://www.meta.com/quest/quest-3/"
   },
   {
     "id": "43",
     "name": "Lululemon Align Leggings",
     "seller": "Lululemon",
     "price": 98.00,
-    "imageColor": "bg-purple-800"
+    "imageURL": "https://images.lululemon.com/is/image/lululemon/LW5CT3S_0001_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+    "productURL": "https://shop.lululemon.com/p/womens-leggings/Align-Pant-2/_/prod2020012"
   },
   {
     "id": "44",
     "name": "Stanley Quencher 40oz",
     "seller": "Stanley",
     "price": 45.00,
-    "imageColor": "bg-green-200"
+    "imageURL": "https://m.media-amazon.com/images/I/51m3HkbcDIL.jpg",
+    "productURL": "https://www.stanley1913.com/products/adventure-quencher-travel-tumbler-40-oz"
   },
   {
     "id": "45",
@@ -356,14 +400,16 @@
     "price": 199.99,
     "originalPrice": 229.99,
     "saving": 30.00,
-    "imageColor": "bg-gray-600"
+    "imageURL": "https://m.media-amazon.com/images/I/71yriiDidWL.jpg",
+    "productURL": "https://www.ninjakitchen.com/products/ninja-creami-ice-cream-maker-zidNC301"
   },
   {
     "id": "46",
     "name": "Audio-Technica AT-LP60X",
     "seller": "Turntable Lab",
     "price": 149.00,
-    "imageColor": "bg-neutral-800"
+    "imageURL": "https://www.audio-technica.com/media/catalog/product/cache/177161fc218aa2dd413f2b73f6832b88/a/t/at-lp60x-bk_01.png",
+    "productURL": "https://www.audio-technica.com/en-us/turntables/all/at-lp60x"
   },
   {
     "id": "47",
@@ -372,21 +418,24 @@
     "price": 549.00,
     "originalPrice": 699.00,
     "saving": 150.00,
-    "imageColor": "bg-green-100"
+    "imageURL": "https://m.media-amazon.com/images/I/71SfoZu9a3L._AC_SL1500_.jpg",
+    "productURL": "https://store.google.com/product/pixel_8"
   },
   {
     "id": "48",
     "name": "Belkin 3-in-1 MagSafe Charger",
     "seller": "Apple",
     "price": 149.95,
-    "imageColor": "bg-white"
+    "imageURL": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw83520787/images/hi-res/1/33f75aaa4a5a0448_WIZ023dqBK-BoostCharge-Pro-3in1Stand-webgg-hero-01__lz__en_US.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+    "productURL": "https://www.belkin.com/3-in-1-wireless-charger-with-magsafe-15w/P-WIZ009.html"
   },
   {
     "id": "49",
     "name": "Whoop 4.0 Strap",
     "seller": "Whoop",
     "price": 239.00,
-    "imageColor": "bg-black"
+    "imageURL": "https://images.us-east-2.aws.commercetools.com/1e98a82a-cbb6-4067-bee3-7ab3f4fd2555/WHOOP-Shopify-BANDs--Kf13nWPD.png",
+    "productURL": "https://www.whoop.com/"
   },
   {
     "id": "50",
@@ -395,6 +444,7 @@
     "price": 179.00,
     "originalPrice": 199.00,
     "saving": 20.00,
-    "imageColor": "bg-red-500"
+    "imageURL": "https://swag-prod.s3.us-east-2.amazonaws.com/images/6183ff8a88ef3c733ca22bdc.jpg",
+    "productURL": "https://www.therabody.com/us/en-us/theragun-mini/"
   }
 ]

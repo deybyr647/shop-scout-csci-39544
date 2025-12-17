@@ -4,7 +4,7 @@ import ProductCard from "@/components/results/ProductCard";
 import RelatedProducts from "@/components/results/RelatedProducts";
 import Search from "@/components/results/Search";
 import NavBar from "@/components/NavBar";
-import productsData from "./api/products.json"; // Importing the JSON data directly
+import productsData from "./api/products.json";
 
 export default function Results() {
     const router = useRouter();
@@ -39,7 +39,8 @@ export default function Results() {
                                 name={p.name}
                                 seller={p.seller}
                                 price={p.price}
-                                imageColor={p.imageColor}
+                                imageURL={p.imageURL}
+                                productURL={p.productURL}
                                 saving={p.saving}
                                 originalPrice={p.originalPrice}
                             />

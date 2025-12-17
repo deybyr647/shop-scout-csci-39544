@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bd2326d-03fd-4c0e-86f7-1ed0ca2a365f" name="Changes" comment="" />
+    <list default="true" id="9bd2326d-03fd-4c0e-86f7-1ed0ca2a365f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/product/ActionButtons.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/product/ActionButtons.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/product/ProductHero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/product/ProductHero.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/results/ProductCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/results/ProductCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/results/RelatedProducts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/results/RelatedProducts.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/products.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/products/[id].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/[id].tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/results.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/results.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,27 +38,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
-    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
-    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
-    &quot;npm.Next.js: server-side.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/deyby/Projects/product-dev/shop-scout/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "dev",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "last_opened_file_path": "/Users/deyby/Projects/product-dev/shop-scout/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "npm.Next.js: server-side.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.general",
+    "ts.external.directory.path": "/Users/deyby/Projects/product-dev/shop-scout/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/components/product/chat" />
     </key>
@@ -84,7 +97,8 @@
       <option name="presentableId" value="Default" />
       <updated>1738542719011</updated>
       <workItem from="1738542720047" duration="30000" />
-      <workItem from="1765939065348" duration="8803000" />
+      <workItem from="1765939065348" duration="9499000" />
+      <workItem from="1765993645338" duration="4589000" />
     </task>
     <servers />
   </component>

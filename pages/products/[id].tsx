@@ -71,7 +71,7 @@ export default function ProductDetail() {
                     onFocus={() => setIsChatOpen(true)}
                     onSend={handleSend}
                 />
-                <ActionButtons/>
+                <ActionButtons productURL={product.productURL}/>
             </div>
         </div>
     );
