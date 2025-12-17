@@ -1,0 +1,400 @@
+[
+  {
+    "id": "1",
+    "name": "Sony WH-1000XM4",
+    "seller": "Sony Electronics",
+    "price": 199.99,
+    "originalPrice": 349.99,
+    "saving": 150.00,
+    "imageColor": "bg-gray-200"
+  },
+  {
+    "id": "2",
+    "name": "Apple MacBook Air M2",
+    "seller": "Best Buy",
+    "price": 999.00,
+    "originalPrice": 1199.00,
+    "saving": 200.00,
+    "imageColor": "bg-slate-300"
+  },
+  {
+    "id": "3",
+    "name": "Logitech MX Master 3S",
+    "seller": "Amazon",
+    "price": 92.50,
+    "originalPrice": 99.99,
+    "saving": 7.49,
+    "imageColor": "bg-gray-700"
+  },
+  {
+    "id": "4",
+    "name": "Samsung Galaxy S24 Ultra",
+    "seller": "Samsung Official",
+    "price": 1199.99,
+    "imageColor": "bg-yellow-100"
+  },
+  {
+    "id": "5",
+    "name": "Anker 737 Power Bank",
+    "seller": "Anker Store",
+    "price": 149.99,
+    "imageColor": "bg-black"
+  },
+  {
+    "id": "6",
+    "name": "Nintendo Switch OLED",
+    "seller": "GameStop",
+    "price": 349.99,
+    "imageColor": "bg-red-500"
+  },
+  {
+    "id": "7",
+    "name": "AirPods Pro (2nd Gen)",
+    "seller": "Target",
+    "price": 189.99,
+    "originalPrice": 249.00,
+    "saving": 59.01,
+    "imageColor": "bg-white"
+  },
+  {
+    "id": "8",
+    "name": "Dyson V15 Detect Vacuum",
+    "seller": "Dyson",
+    "price": 649.99,
+    "originalPrice": 749.99,
+    "saving": 100.00,
+    "imageColor": "bg-purple-600"
+  },
+  {
+    "id": "9",
+    "name": "Kindle Paperwhite",
+    "seller": "Amazon",
+    "price": 139.99,
+    "imageColor": "bg-stone-800"
+  },
+  {
+    "id": "10",
+    "name": "Bose QuietComfort 45",
+    "seller": "B&H Photo Video",
+    "price": 279.00,
+    "originalPrice": 329.00,
+    "saving": 50.00,
+    "imageColor": "bg-neutral-400"
+  },
+  {
+    "id": "11",
+    "name": "Garmin Fenix 7X Solar",
+    "seller": "REI",
+    "price": 799.99,
+    "originalPrice": 899.99,
+    "saving": 100.00,
+    "imageColor": "bg-slate-800"
+  },
+  {
+    "id": "12",
+    "name": "Keychron K2 Mechanical Keyboard",
+    "seller": "Keychron",
+    "price": 79.00,
+    "imageColor": "bg-gray-500"
+  },
+  {
+    "id": "13",
+    "name": "Dell XPS 13 Plus",
+    "seller": "Dell Official",
+    "price": 1249.00,
+    "originalPrice": 1449.00,
+    "saving": 200.00,
+    "imageColor": "bg-zinc-200"
+  },
+  {
+    "id": "14",
+    "name": "GoPro HERO12 Black",
+    "seller": "GoPro",
+    "price": 349.99,
+    "originalPrice": 399.99,
+    "saving": 50.00,
+    "imageColor": "bg-teal-900"
+  },
+  {
+    "id": "15",
+    "name": "PlayStation 5 Console",
+    "seller": "Walmart",
+    "price": 499.00,
+    "imageColor": "bg-white"
+  },
+  {
+    "id": "16",
+    "name": "Xbox Series X",
+    "seller": "Microsoft Store",
+    "price": 449.99,
+    "originalPrice": 499.99,
+    "saving": 50.00,
+    "imageColor": "bg-green-900"
+  },
+  {
+    "id": "17",
+    "name": "Philips Hue Starter Kit",
+    "seller": "Best Buy",
+    "price": 159.99,
+    "originalPrice": 199.99,
+    "saving": 40.00,
+    "imageColor": "bg-orange-100"
+  },
+  {
+    "id": "18",
+    "name": "Fitbit Charge 6",
+    "seller": "Fitbit",
+    "price": 159.95,
+    "imageColor": "bg-rose-100"
+  },
+  {
+    "id": "19",
+    "name": "Yeti Rambler 20oz",
+    "seller": "Dick's Sporting Goods",
+    "price": 35.00,
+    "imageColor": "bg-blue-600"
+  },
+  {
+    "id": "20",
+    "name": "Sonos Arc Soundbar",
+    "seller": "Sonos",
+    "price": 899.00,
+    "imageColor": "bg-black"
+  },
+  {
+    "id": "21",
+    "name": "Fujifilm X100V",
+    "seller": "Adorama",
+    "price": 1399.00,
+    "imageColor": "bg-zinc-400"
+  },
+  {
+    "id": "22",
+    "name": "Razer DeathAdder V3",
+    "seller": "Razer",
+    "price": 69.99,
+    "imageColor": "bg-green-400"
+  },
+  {
+    "id": "23",
+    "name": "iPad Air M1",
+    "seller": "Apple",
+    "price": 559.00,
+    "originalPrice": 599.00,
+    "saving": 40.00,
+    "imageColor": "bg-sky-200"
+  },
+  {
+    "id": "24",
+    "name": "Nest Learning Thermostat",
+    "seller": "Google Store",
+    "price": 199.00,
+    "originalPrice": 249.00,
+    "saving": 50.00,
+    "imageColor": "bg-gray-400"
+  },
+  {
+    "id": "25",
+    "name": "Herman Miller Aeron Chair",
+    "seller": "Herman Miller",
+    "price": 1250.00,
+    "originalPrice": 1600.00,
+    "saving": 350.00,
+    "imageColor": "bg-stone-900"
+  },
+  {
+    "id": "26",
+    "name": "Hydro Flask 32oz",
+    "seller": "Hydro Flask",
+    "price": 44.95,
+    "imageColor": "bg-indigo-500"
+  },
+  {
+    "id": "27",
+    "name": "Samsung T7 SSD 1TB",
+    "seller": "Newegg",
+    "price": 79.99,
+    "originalPrice": 99.99,
+    "saving": 20.00,
+    "imageColor": "bg-blue-700"
+  },
+  {
+    "id": "28",
+    "name": "Oura Ring Gen3",
+    "seller": "Oura",
+    "price": 299.00,
+    "imageColor": "bg-yellow-600"
+  },
+  {
+    "id": "29",
+    "name": "LG C3 OLED TV 55\"",
+    "seller": "Best Buy",
+    "price": 1299.99,
+    "originalPrice": 1499.99,
+    "saving": 200.00,
+    "imageColor": "bg-black"
+  },
+  {
+    "id": "30",
+    "name": "Canon EOS R6 Mark II",
+    "seller": "Canon USA",
+    "price": 2299.00,
+    "originalPrice": 2499.00,
+    "saving": 200.00,
+    "imageColor": "bg-neutral-900"
+  },
+  {
+    "id": "31",
+    "name": "Nothing Phone (2)",
+    "seller": "Nothing",
+    "price": 599.00,
+    "imageColor": "bg-gray-300"
+  },
+  {
+    "id": "32",
+    "name": "Ember Mug 2",
+    "seller": "Ember",
+    "price": 129.95,
+    "originalPrice": 149.95,
+    "saving": 20.00,
+    "imageColor": "bg-red-400"
+  },
+  {
+    "id": "33",
+    "name": "Peak Design Everyday Backpack",
+    "seller": "Peak Design",
+    "price": 279.95,
+    "imageColor": "bg-slate-600"
+  },
+  {
+    "id": "34",
+    "name": "Elgato Stream Deck MK.2",
+    "seller": "Corsair",
+    "price": 139.99,
+    "originalPrice": 149.99,
+    "saving": 10.00,
+    "imageColor": "bg-blue-900"
+  },
+  {
+    "id": "35",
+    "name": "Nanoleaf Shapes Hexagons",
+    "seller": "Nanoleaf",
+    "price": 199.99,
+    "imageColor": "bg-pink-300"
+  },
+  {
+    "id": "36",
+    "name": "Instant Pot Duo Plus",
+    "seller": "Amazon",
+    "price": 99.95,
+    "originalPrice": 129.95,
+    "saving": 30.00,
+    "imageColor": "bg-gray-500"
+  },
+  {
+    "id": "37",
+    "name": "Ray-Ban Meta Smart Glasses",
+    "seller": "Sunglass Hut",
+    "price": 299.00,
+    "imageColor": "bg-black"
+  },
+  {
+    "id": "38",
+    "name": "DJI Mini 3 Pro Drone",
+    "seller": "DJI",
+    "price": 759.00,
+    "imageColor": "bg-gray-200"
+  },
+  {
+    "id": "39",
+    "name": "Remarkable 2 Tablet",
+    "seller": "Remarkable",
+    "price": 299.00,
+    "imageColor": "bg-stone-100"
+  },
+  {
+    "id": "40",
+    "name": "Withings Body+ Scale",
+    "seller": "Withings",
+    "price": 99.95,
+    "imageColor": "bg-white"
+  },
+  {
+    "id": "41",
+    "name": "JBL Flip 6 Speaker",
+    "seller": "JBL Audio",
+    "price": 99.95,
+    "originalPrice": 129.95,
+    "saving": 30.00,
+    "imageColor": "bg-red-600"
+  },
+  {
+    "id": "42",
+    "name": "Meta Quest 3",
+    "seller": "Meta Store",
+    "price": 499.99,
+    "imageColor": "bg-white"
+  },
+  {
+    "id": "43",
+    "name": "Lululemon Align Leggings",
+    "seller": "Lululemon",
+    "price": 98.00,
+    "imageColor": "bg-purple-800"
+  },
+  {
+    "id": "44",
+    "name": "Stanley Quencher 40oz",
+    "seller": "Stanley",
+    "price": 45.00,
+    "imageColor": "bg-green-200"
+  },
+  {
+    "id": "45",
+    "name": "Ninja Creami Ice Cream Maker",
+    "seller": "Target",
+    "price": 199.99,
+    "originalPrice": 229.99,
+    "saving": 30.00,
+    "imageColor": "bg-gray-600"
+  },
+  {
+    "id": "46",
+    "name": "Audio-Technica AT-LP60X",
+    "seller": "Turntable Lab",
+    "price": 149.00,
+    "imageColor": "bg-neutral-800"
+  },
+  {
+    "id": "47",
+    "name": "Google Pixel 8",
+    "seller": "Google Store",
+    "price": 549.00,
+    "originalPrice": 699.00,
+    "saving": 150.00,
+    "imageColor": "bg-green-100"
+  },
+  {
+    "id": "48",
+    "name": "Belkin 3-in-1 MagSafe Charger",
+    "seller": "Apple",
+    "price": 149.95,
+    "imageColor": "bg-white"
+  },
+  {
+    "id": "49",
+    "name": "Whoop 4.0 Strap",
+    "seller": "Whoop",
+    "price": 239.00,
+    "imageColor": "bg-black"
+  },
+  {
+    "id": "50",
+    "name": "Theragun Mini",
+    "seller": "Therabody",
+    "price": 179.00,
+    "originalPrice": 199.00,
+    "saving": 20.00,
+    "imageColor": "bg-red-500"
+  }
+]
