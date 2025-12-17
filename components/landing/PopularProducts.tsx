@@ -8,7 +8,6 @@ const PopularProducts = () => {
 
     useEffect(() => {
         // Shuffle the products array and pick the first 3 items to simulate "Popular" trends
-        // We do this in useEffect to avoid server/client hydration mismatches with random data
         const shuffled = [...productsData].sort(() => 0.5 - Math.random());
         const selected = shuffled.slice(0, 3).map(p => p.name);
         setItems(selected);
